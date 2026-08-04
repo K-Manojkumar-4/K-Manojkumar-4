@@ -106,34 +106,16 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 - Integrated local storage for persistent task management and optimized the application for a smooth user experience
 
 
-## 🗂️ Other Repositories
-
-| Repo | Description | Stack |
-|---|---|---|
-| [Tennis-Stoke-Classifier](https://github.com/Kiran301103/Tennis-Stoke-Classifier) | Classifies tennis strokes from data | Jupyter Notebook |
-| [LITE-Time-Series](https://github.com/Kiran301103/LITE-Time-Series) | Time series classification experiments | Python |
-| [LITE](https://github.com/Kiran301103/LITE) | Light Inception with boosTing tEchniques for Time Series Classification | — |
-| [multiple_disease_prediction](https://github.com/Kiran301103/multiple_disease_prediction) | ML-based multi-disease prediction system | Python |
-| [google-Developement-Ml](https://github.com/Kiran301103/google-Developement-Ml) | Google ML development exercises | Jupyter Notebook |
-| [neetcode-submissions](https://github.com/Kiran301103/neetcode-submissions) | NeetCode.io DSA problem submissions | Python |
-| [weather-alert-using-python](https://github.com/Kiran301103/weather-alert-using-python) | Automated weather alert system | Python |
-| [virtual-visit-to-indian-pilgrimage](https://github.com/Kiran301103/virtual-visit-to-indian-pilgrimage) | Virtual tour web app | HTML |
-| [Bg_colour_change](https://github.com/Kiran301103/Bg_colour_change) | Frontend practice project | HTML |
-
 ## 🎓 Education
 
-**MSc Advanced Artificial Intelligence** · University College Dublin · Sep 2025 – Present
-Advanced ML · Deep Learning · Advanced Generative AI & LLMs · AI for Health · Recommender Systems · Responsible AI · ML System Deployment · Optimisation
-
 **B. Tech Information Technology** · Sathyabama University, India · Aug 2021 – May 2025
-Cumulative GPA: 8.89/10 (1:1 Honours equivalent)
 
 ## 📜 Certifications
 
-- Claude Code (Anthropic) 
-- Python (University of Michigan / Coursera) 
-- MongoDB Certification (MongoDB Learn) 
-- C and C++ Programming (Apollo Education)
+- Data Analytics (Deloitte) 
+- Data Science & Data Analytics (HP Foundation) 
+- Data Engineering For Generative AI Applications (AWS Training & Cretification) 
+- [Python for Data science](https://www.linkedin.com/posts/manoj-kumar-k-kumararajan-107617363_diploma-in-python-for-data-science-free-share-7490435935432527872-ULBJ)
 
 ## 📊 GitHub Stats
 
