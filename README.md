@@ -138,7 +138,7 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://kiran301103.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiran301103@gmail.com)
 
-*Open to full-time AI Engineer / Software Engineer roles in Dublin.*
+*Open to full-time AI Engineer / Data Analyst / Data roles in Chennai.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=K-Manojkumar-4&color=2E9EF7&style=flat)
 
