@@ -57,6 +57,7 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 **Generative AI**
 `LLMs` . ` RAG` . `LangChain ` . `Prompt Engineering`
 
+
 ## 💼 Experience
 
 **AI Developer Intern · AspireRise Ventures Limited** — Dublin, Ireland *(Mar 2026 – Present)*
