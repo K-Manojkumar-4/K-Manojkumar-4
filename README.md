@@ -49,6 +49,7 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `K-Means` · `Linear Regression` · `Feature Engineering` · `Jupyter`
 
 **Generative AI**
+
 `LLMs` . ` RAG` . `LangChain ` . `Prompt Engineering`
 
 **Full-Stack Development**  
