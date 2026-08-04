@@ -21,11 +21,27 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 ## 🛠️ Tech Stack
 
+### Languages & Tools
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,tensorflow,pytorch,git,github,vscode,jupyter,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode,jupyter,tensorflow,pytorch)](https://skillicons.dev)
 
 </div>
+
+### Data Analytics & AI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-0A66C2?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F61?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
+
 **GenAI & Agentic Systems:** LLMs · Multi-Agent Systems · LangChain · MCP · RAG Pipelines (FAISS, BM25, LLM Reranking) · Prompt & Context Engineering · Foundation Models · Hugging Face · PyTorch · TensorFlow
 **Evaluation & Observability:** Evaluation Pipelines · LLM-Native Metrics · Human-in-the-Loop · Responsible AI · Guardrails
 
