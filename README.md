@@ -121,12 +121,13 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 <div align="center">
 
-![Kiran's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Kiran301103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Kiran301103&layout=compact&theme=tokyonight&hide_border=true)
+![Manoj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-Manojkumar-4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Kiran301103&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-Manojkumar-4&layout=compact&theme=tokyonight&hide_border=true)
 
-![Kiran's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiran301103&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=K-Manojkumar-4&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=K-Manojkumar-4&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
