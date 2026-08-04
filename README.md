@@ -12,19 +12,18 @@
 
 ## 🚀 About Me
 
-MSc Advanced AI graduate (UCD, August 2026) and AI Engineer with production experience architecting and deploying GenAI and agentic AI solutions serving **13,000+ users** on cloud infrastructure. Shipped production-grade RAG pipelines, multi-agent workflows, LLM inference services, and evaluation frameworks from conception to launch.
+BTech Information Technology graduate (Sathyabama Institute of Science and Technology, May 2025) with a strong foundation in Data Analytics, Data Science, and Machine Learning. Skilled in SQL, Python, Excel, and Power BI, with hands-on experience in data analysis, visualization, and building end-to-end analytics projects. Additionally, I have foundational knowledge of Generative AI, LLMs, and RAG, supported by professional certifications. Currently seeking full-time Data Analyst opportunities where I can apply my analytical skills to solve real-world business problems while continuing to grow in Data Science and AI..
 
-- 🔭 Currently building **RAG pipelines** (FAISS, BM25, LLM reranking) and **multi-agent workflows** (LangChain, MCP) at AspireRise Ventures
-- 🎓 MSc Advanced AI graduate, UCD — coursework complete, immediately available for full-time roles
-- 🏆 ISAI Outstanding Achievement Award 2026 — for technical contributions to [joinisai.ie](https://joinisai.ie)
-- 📜 Claude Code certified (Anthropic)
-- 💬 Ask me about RAG evaluation, agentic system design, or full-stack GenAI product builds
+- 🔭 Currently expanding my expertise in Data Analytics, Data Science, Machine Learning, and Generative AI through hands-on projects and continuous learning.
+- 🎓 BTech Information Technology graduate, Sathyabama University — coursework complete, immediately available for full-time roles
+- 📜 Deloitte Data Analytics certified 
+- 💬 Ask me about SQL analytics, Power BI dashboards, data science workflows, or Generative AI applications
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,java,cpp,fastapi,flask,postgres,mongodb,firebase,docker,kubernetes,gcp,aws,azure,git,github,linux,react)
+![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,java,sql,datascience,flask,postgres,mongodb,firebase,docker,kubernetes,gcp,aws,azure,git,github,linux,react)
 
 </div>
 
