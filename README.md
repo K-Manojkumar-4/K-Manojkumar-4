@@ -25,7 +25,7 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,tensorflow,pytorch,git,github,vscode,jupyter,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,tensorflow,pytorch,git,github,vscode,anaconda)](https://skillicons.dev)
 
 </div>
 
