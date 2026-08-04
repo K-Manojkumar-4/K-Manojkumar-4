@@ -2,7 +2,7 @@
 
 ## Hi there , I'm Manoj 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer;Building+RAG+Pipelines+%26+Agentic+Systems;Btech+IT+%40+Sathayabama%7C+Chennai;Open+to+Full-Time+Data+Engineer,+AI+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Engineer;Data+Analyst+%26;Building+RAG+Pipelines+%26+Agentic+Systems;Btech+IT+%40+Sathayabama%7C+Chennai;Open+to+Full-Time+Data+Engineer,+AI+Roles)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran301103)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/K-Manojkumar-4)
