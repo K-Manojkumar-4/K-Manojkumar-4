@@ -63,8 +63,12 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 **Software Developer Intern · Hackwit Technologies** — Chennai, India *(Jan 2024 – Feb 2024)*
 - Improved backend latency and throughput by 30%; shipped 6+ features improving app stability by 28% and reducing bug reports by 18%
 
-**Web Developer Intern · HDLC Technologies** — Chennai, India *(June 2023 – Aug 2023)*
-- Improved database performance by 32% through indexing and SQL optimisation; executed 500+ test cases
+**Web Developer Intern · HCL Technologies** — Chennai, India *(June 2023 – Aug 2023)*
+- Built a complete **Train Ticket Reservation System** using PHP and MySQL
+- Implemented user registration/login, seat booking, PNR status checking, cancellation, and schedule management
+- Designed and optimized database schema; improved query performance through indexing and SQL optimization
+- Executed 500+ test cases to ensure system reliability and accuracy
+
 
 ## 📌 Featured Projects
 
@@ -96,11 +100,10 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 - Clean HTML/CSS website with hero section, project gallery, contact form and social links
 - Fully responsive layout designed for showcasing creative web development skills
 
-
-
-**[Flutter Car Rent & Purchase App](https://github.com/Kiran301103/flutter-car-rent-and-purchase-app)** — Cross-platform mobile app for car rental and purchase
-- Built with Flutter/Dart for Android and iOS
-- End-to-end flows for browsing, renting, and purchasing vehicles
+**[Flutter To-Do List App]** — Cross-platform productivity application
+- Developed using Flutter and Dart for Android and iOS
+- Designed an intuitive interface for creating, updating, deleting, and organizing daily tasks
+- Integrated local storage for persistent task management and optimized the application for a smooth user experience
 
 
 ## 🗂️ Other Repositories
