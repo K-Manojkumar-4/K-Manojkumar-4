@@ -60,12 +60,6 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 ## 💼 Experience
 
-**AI Developer Intern · AspireRise Ventures Limited** — Dublin, Ireland *(Mar 2026 – Present)*
-- Architected and deployed production-grade GenAI solutions serving 13,000+ users — RAG pipelines (FAISS, BM25, LLM reranking), multi-agent workflows via LangChain, and LLM inference services from conception to launch
-- Built evaluation pipelines and observability frameworks ensuring agentic systems meet accuracy, safety, and latency requirements; implemented human-in-the-loop patterns and responsible AI guardrails
-- Developed full-stack AI-powered backend services (FastAPI, Node.js, PostgreSQL) integrating APIs, vector databases, and real-time data flows
-- Collaborated cross-functionally with technical and non-technical stakeholders to co-build and ship enterprise-grade AI solutions with measurable impact
-
 **Software Developer Intern · Hackwit Technologies** — Chennai, India *(Jan 2024 – Feb 2024)*
 - Improved backend latency and throughput by 30%; shipped 6+ features improving app stability by 28% and reducing bug reports by 18%
 
