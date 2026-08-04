@@ -42,8 +42,21 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 ![LLMs](https://img.shields.io/badge/LLMs-FF6F61?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge)
 
-**GenAI & Agentic Systems:** LLMs · Multi-Agent Systems · LangChain · MCP · RAG Pipelines (FAISS, BM25, LLM Reranking) · Prompt & Context Engineering · Foundation Models · Hugging Face · PyTorch · TensorFlow
-**Evaluation & Observability:** Evaluation Pipelines · LLM-Native Metrics · Human-in-the-Loop · Responsible AI · Guardrails
+**Data Analytics & BI**  
+`MySQL` · `Advanced SQL (CTEs, Window Functions, Aggregations)` · `Power BI` · `EDA` · `Business Insights`
+
+**Data Science & ML**  
+`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `K-Means` · `Linear Regression` · `Feature Engineering` · `Jupyter`
+
+**Generative AI**
+`LLMs` . ` RAG` . `LangChain ` . `Prompt Engineering`
+
+**Full-Stack Development**  
+`PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Role-based Systems` · `Authentication`
+
+**Tools & Others**  
+`Git` · `GitHub` · `VS Code` · `XAMPP` · `Documentation` · `Dashboard Design`
+
 
 ## 💼 Experience
 
