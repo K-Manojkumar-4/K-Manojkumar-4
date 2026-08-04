@@ -68,45 +68,40 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 ## 📌 Featured Projects
 
-**[Joinisai.ie](https://joinisai.ie)** — Full-stack SaaS platform for the International Student Association of Ireland
-- Node.js/Express, Supabase, PostgreSQL with multi-system REST API integrations
-- RAG-powered chatbot (LLM inference, vector search), role-specific dashboards
-- Multi-role authentication (JWT, RBAC, OAuth 2.0) for 4 user types
+**[Swiggy Data Science Case Study](https://github.com/K-Manojkumar-4/Swiggy-Data-Science-CaseStudy)** — End-to-end Data Science project
+- Data preprocessing, EDA, statistical analysis and feature engineering
+- K-Means clustering, Linear Regression and model evaluation on food delivery data
+- Jupyter Notebook based workflow with clear insights
+  
+**[PrimeViz — E-Commerce Sales Analysis](https://github.com/K-Manojkumar-4/PrimeViz-ECommence-Sales-Analysis)** — MySQL + Power BI end-to-end analytics
+- Analyzed 250 Amazon-style orders ($243K revenue) with advanced SQL (window functions, CTEs)
+- Built a 4-page interactive Power BI dashboard covering Overview, Sales, Customers & Operations
+- Delivered actionable business insights and recommendations (cancellation rate analysis, category performance)
 
-**[Risk-Aware Health Insurance Recommender](https://github.com/Kiran301103/ML-Deployment)** — Production-ready RAG system
-- FAISS, BM25, and LLM reranking for personalized insurance recommendations
-- FastAPI backend services and structured document processing pipelines
+**[Amazon Shopverse Records](https://github.com/K-Manojkumar-4/Amazon-Shopverse-Records)** — Advanced SQL Data Analysis
+- Professional analysis of large-scale e-commerce records using MySQL
+- Window functions, CTEs, time-series trends, customer retention & revenue intelligence
+- Full documentation, schema design and 20+ business questions answered
 
-**[Hospital Management System](https://github.com/Kiran301103/hms)** — Automation systems for a healthcare client
-- Appointment booking, WhatsApp/email workflows, payment integrations, revenue dashboards, calendar sync
-- Structured workflows for patient data handling and contextual medical query support
+**[Hospital Management System](https://github.com/K-Manojkumar-4/Hospital-Management-System)** — Multi-role hospital automation platform
+- PHP/MySQL full-stack system with patient, doctor, admin and pharmacist portals
+- Integrated blood donation manager, pharmacy/inventory modules and AI assistant
+- Appointment booking, prescriptions, role-based access and workflow automation
 
-**[Ethical Validation of Clinical AI](https://github.com/Kiran301103/AI--Ethics)**
-- Reproduced and evaluated deep learning architectures across 128 benchmark datasets using TensorFlow
-- Improved classification accuracy by 1.30% using feature engineering and GPU-accelerated training pipelines
+**[Ticket Reservation System](https://github.com/K-Manojkumar-4/TicketReservationSystem)** — Train ticket booking platform
+- PHP + MySQL backend with booking, cancellation, PNR status and schedule management
+- User authentication, profile management and reservation chart generation
 
-**[Multi-Modal Breast Cancer Classification](https://github.com/insight-ucd/comp41840-project-team-4)** — Deep learning + ML fusion system *(UCD, 2026)*
-- Combined ultrasound imaging and clinical tabular data using mask-guided lesion cropping and DenseNet169 transfer learning
-- Benchmarked tabular ML models (XGBoost, LightGBM, Random Forest) with Optuna hyperparameter tuning
-- Achieved **AUC > 0.94** through multimodal late-fusion ensembling with Grad-CAM explainability and mIoU localisation
+**[Thalapathy Vijay Portfolio](https://github.com/K-Manojkumar-4/thalapathy-vijay-portfolio)** — Responsive personal portfolio
+- Clean HTML/CSS website with hero section, project gallery, contact form and social links
+- Fully responsive layout designed for showcasing creative web development skills
 
-**Online Glyph Classification & Mathematical Expression Recognition** — Sequence modelling for handwritten math *(UCD, 2026)*
-- Built deep learning pipelines for handwritten mathematical expression recognition using CNNs, GRU Seq2Seq, and Transformer architectures
-- Achieved **94.53% glyph classification accuracy** and 91%+ Levenshtein Accuracy on sequence generation
-- Implemented variable-length sequence handling, attention masking, teacher forcing, and mixed precision training
 
-**[AI Recommendation Trust Study](https://github.com/Kiran301103/HCAI)** — Human-Computer Interaction research *(UCD, 2026)*
-- Designed an HCI experiment studying how AI confidence levels influence user trust and purchase decisions in recommender systems
-- Built a responsive web-based experimental interface simulating AI product recommendations under confident vs. uncertain conditions
-- Ran between-subjects experimental design with hypothesis testing and t-test statistical analysis
 
 **[Flutter Car Rent & Purchase App](https://github.com/Kiran301103/flutter-car-rent-and-purchase-app)** — Cross-platform mobile app for car rental and purchase
 - Built with Flutter/Dart for Android and iOS
 - End-to-end flows for browsing, renting, and purchasing vehicles
 
-**[Weather API & Train Ticket Reservation](https://github.com/Kiran301103/weather-api-and-train-ticket-reservation)** — Combined weather-data and train booking system
-- PHP-based backend integrating a weather API with a train ticket reservation workflow
-- Handles booking logic alongside live weather data lookups
 
 ## 🗂️ Other Repositories
 
