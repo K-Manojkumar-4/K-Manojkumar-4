@@ -23,7 +23,7 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 <div align="center">
 
-![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,java,sql,flask,postgres,mongodb,firebase,docker,kubernetes,gcp,aws,azure,git,github,linux,react)
+![My Skills](https://skillicons.dev/icons?i=python,mysql,php,js,html,css,git,github,linux,vscode)
 
 </div>
 
