@@ -48,15 +48,14 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 **Data Science & ML**  
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `K-Means` · `Linear Regression` · `Feature Engineering` · `Jupyter`
 
-**Generative AI**
-`LLMs` . ` RAG` . `LangChain ` . `Prompt Engineering`
-
 **Full-Stack Development**  
 `PHP` · `MySQL` · `HTML` · `CSS` · `JavaScript` · `Role-based Systems` · `Authentication`
 
 **Tools & Others**  
 `Git` · `GitHub` · `VS Code` · `XAMPP` · `Documentation` · `Dashboard Design`
 
+**Generative AI**
+`LLMs` . ` RAG` . `LangChain ` . `Prompt Engineering`
 
 ## 💼 Experience
 
