@@ -25,7 +25,6 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 ![My Skills](https://skillicons.dev/icons?i=python,mysql,postgres,sqlite,pandas,numpy,sklearn,tensorflow,pytorch,git,github,vscode,jupyter)
 
-
 **GenAI & Agentic Systems:** LLMs · Multi-Agent Systems · LangChain · MCP · RAG Pipelines (FAISS, BM25, LLM Reranking) · Prompt & Context Engineering · Foundation Models · Hugging Face · PyTorch · TensorFlow
 **Evaluation & Observability:** Evaluation Pipelines · LLM-Native Metrics · Human-in-the-Loop · Responsible AI · Guardrails
 
