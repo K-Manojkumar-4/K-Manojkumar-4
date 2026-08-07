@@ -60,8 +60,11 @@ BTech Information Technology graduate (Sathyabama Institute of Science and Techn
 
 ## 💼 Experience
 
-**Software Developer Intern · Hackwit Technologies** — Chennai, India *(Jan 2024 – Feb 2024)*
-- Improved backend latency and throughput by 30%; shipped 6+ features improving app stability by 28% and reducing bug reports by 18%
+**Flutter Developer Intern · Hackwit Technologies** — Chennai, India *(Jan 2024 – Feb 2024)*
+- Developed a cross-platform To-Do List application using Flutter and Dart for Android and iOS.
+- Built core features including task creation, editing, deletion, and organization with an intuitive user interface.
+- Implemented local storage to enable persistent offline task management and reliable data retention.
+- Optimized application performance and UI responsiveness to deliver a smooth, user-friendly mobile experience.
 
 **Web Developer Intern · HCL Technologies** — Chennai, India *(June 2023 – Aug 2023)*
 - Built a complete **Train Ticket Reservation System** using PHP and MySQL
