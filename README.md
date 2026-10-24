@@ -86,6 +86,12 @@ Currently seeking full-time opportunities as a **Data Analyst / Business Intelli
 
 ## 💼 Experience
 
+**Python Programming Intern · Oasis Infobyte (OIBSIP)** — Remote *(Sep 2026 – Oct 2026)*  
+- Completed a 1-month AICTE-certified Python Programming Internship with excellent performance  
+- Designed and developed four practical applications covering core Python, API integration, and speech processing  
+- Built a Voice Assistant with speech recognition & text-to-speech, a Weather App using OpenWeatherMap API, a secure Password Generator, and a BMI Calculator  
+- Applied clean code principles including modular design, input validation, exception handling, and proper documentation
+  
 **Flutter Developer Intern · Hackwit Technologies** — Chennai, India *(Jan 2024 – Feb 2024)*  
 - Developed a cross-platform To-Do List application using Flutter and Dart for Android and iOS  
 - Built core features including task creation, editing, deletion, and organization with an intuitive user interface  
