@@ -111,6 +111,11 @@ Currently seeking full-time opportunities as a **Data Analyst / Business Intelli
 - Designed JSON REST endpoints (`/api/weather`, `/api/health`) integrating OpenWeatherMap APIs with timeouts, input validation, and HTTP error handling  
 - Secured API key server-side using environment variables  
 
+**[OIBSIP – Oasis Infobyte Python Internship](https://github.com/K-Manojkumar-4/OIBSIP)** — Python Programming Internship (Sep 2026 – Oct 2026)  
+- Completed a 1-month AICTE-approved internship by building 4 practical Python applications  
+- Developed BMI Calculator, Secure Password Generator, Weather App (OpenWeatherMap API), and Voice Assistant  
+- Implemented speech recognition, text-to-speech, REST API integration, input validation, error handling, and modular design
+  
 **[Swiggy Data Science Case Study](https://github.com/K-Manojkumar-4/Swiggy-Data-Science-CaseStudy)** — End-to-end Data Science project  
 - Cleaned and analyzed ~197,000 dish listings across 28 Indian cities with feature engineering and exploratory/statistical analysis  
 - Segmented dishes using K-Means clustering (elbow method, silhouette analysis) on scaled price, rating, and rating count  
