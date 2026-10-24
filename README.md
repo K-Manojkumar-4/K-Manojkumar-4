@@ -90,7 +90,7 @@ Currently seeking full-time opportunities as a **Data Analyst / Business Intelli
 - Completed a 1-month AICTE-certified Python Programming Internship with excellent performance  
 - Designed and developed four practical applications covering core Python, API integration, and speech processing  
 - Built a Voice Assistant with speech recognition & text-to-speech, a Weather App using OpenWeatherMap API, a secure Password Generator, and a BMI Calculator  
-- Applied clean code principles including modular design, input validation, exception handling, and proper documentation
+- Applied clean code principles including modular design, input validation and exception handling.
   
 **Flutter Developer Intern · Hackwit Technologies** — Chennai, India *(Jan 2024 – Feb 2024)*  
 - Developed a cross-platform To-Do List application using Flutter and Dart for Android and iOS  
